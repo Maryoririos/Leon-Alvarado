@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding:0;
+     background-color:  rgb(250, 250, 250) 
+     }
+
+
+
+header {
+    color: rgb245, 236, 236; 
+     text-align: center;
+     padding: 20px ;
+}
+
+nav{
+background-color: rgb(3, 81, 112);padding:10px;
+} 
+
+nav ul{
+list-style:none ;margin: 0;padding: 0;display: flex;justify-content: center;
+}
+
+nav li{
+margin-right: 20px;
+}
+
+nav a{
+color: rgb(250, 244, 244);text-decoration: none
+}
+
+#inicio{
+  padding: 40px; text-align:center;
+}
+
+#inicio img{
+width: 110 px; 
+max-width: 200px; 
+border-radius: 20px
+}
+
+#inicio h2{
+  color: black;
+}
+
+
+
+nav{
+  background-color: aliceblue;
+ padding: 40 px;
+}
+
+
+  h2{
+    text-align: center;
+  } 
+  
+  
+  div {
+    display: flex; 
+    justify-content:space-around;
+    flex-wrap: wrap;
+  }
+  
+  
+  div {
+    width: 45%;margin-bottom:20 px ;
+  text-align: center;
+  }
+ 
+ 
+  img {
+    
+    width:  84%;
+     border-radius: 10%px;
+  }
+ 
+  
+  
+  div{
+    width: 45%;
+    margin-bottom:20 px ;
+    text-align: center;
+  }
+  img {
+    
+     width:  100%;
+      border-radius: 10%px;
+  }
+  nav i {
+    
+      padding: 40px;
+     text-align: center;
+    
+  }
+ 
+   #contacto{
+    
+    background-color: aliceblue;
+     padding: 80px;
+  }
+  
+   h2 {
+    text-align: center;
+  }
+ 
+   p {
+    text-align:center;
+   
+  }
+
+   div{
+    text-align: center;
+  }
+   
+   a{
+    margin: 10px;
+    font-size: 20px;
+  }
+  
+
